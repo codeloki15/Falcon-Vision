@@ -33,16 +33,6 @@ Required Python packages (specified in requirements.txt)
 Installation
 Clone this repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/yourusername/cctv-activity-monitoring.git
-Install the required Python packages:
-
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-Configure the application by setting up your security cameras and specifying alert thresholds.
 
 Start the application to begin real-time monitoring.
 

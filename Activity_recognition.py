@@ -13,9 +13,9 @@ import pandas as pd
 import datetime
 
 
-
+current_time = datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
 logging.basicConfig(
-    filename='activity_recognition.log',  # Set the log file
+    filename= f'C://Users//HP//Desktop//lokesh//Logs_Project_scm//activity_recognition_{current_time}.log',  # Set the log file
     level=logging.DEBUG,   # Set the minimum log level
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 )

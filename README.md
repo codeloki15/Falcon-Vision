@@ -2,16 +2,9 @@
 
 
 CCTV Activity Monitoring Application
-Table of Contents
-Introduction
-Features
-Getting Started
-Prerequisites
-Installation
-Usage
-Contributing
-License
-Acknowledgments
+
+## Table of Contents
+
 Introduction
 The CCTV Activity Monitoring Application is designed to help organizations track events and activities captured by security cameras (CCTV). The application utilizes computer vision and a transformer model to analyze camera frames in real-time and identify various human activities, enabling organizations to respond promptly to critical situations.
 

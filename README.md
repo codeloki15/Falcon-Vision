@@ -36,7 +36,7 @@ Review activity logs and reports to assess the situation and take appropriate ac
 We welcome contributions from the community. To contribute to this project, please follow our contribution guidelines.
 
 ### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the Robo-cam Falcon-Vision Commercial License. See the LICENSE file for details.
 
 ### Acknowledgments
 Special thanks to the open-source community for their contributions to computer vision and machine learning technologies.

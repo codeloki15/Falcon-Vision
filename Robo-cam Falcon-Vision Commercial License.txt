@@ -1,0 +1,55 @@
+Robo-cam Falcon-Vision Commercial Software License
+
+IMPORTANT: READ CAREFULLY BEFORE USING THE SOFTWARE. THIS IS A LEGAL AGREEMENT BETWEEN YOU AND ROBO-CAM. BY USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
+
+1. DEFINITIONS
+
+"Software" refers to "Falcon-Vision," including all associated documentation, updates, and any accompanying materials provided by Robo-cam.
+
+2. LICENSE GRANT
+
+Subject to the terms and conditions of this Agreement, Robo-cam grants you a non-exclusive, non-transferable, limited license to use the Software solely for the purpose for which it was intended, as specified in the accompanying documentation.
+
+3. RESTRICTIONS
+
+You may not:
+   a. Copy, modify, or create derivative works of the Software.
+   b. Reverse engineer, decompile, or disassemble the Software.
+   c. Transfer, sublicense, or assign your rights under this license to any third party.
+   d. Use the Software for any illegal or unauthorized purpose, including, but not limited to, any activity that violates local, national, or international laws.
+   e. Use the Software for any harmful, malicious, or unethical purposes, including, but not limited to, any activity that may cause harm, harassment, or discomfort to individuals or groups, or any activity that may infringe upon privacy rights.
+   f. Use the Software in any way that facilitates or promotes criminal or illegal activities, including but not limited to, activities related to torture, harm, or harassment.
+
+4. UPFRONT FEES
+
+Before using the Software, you agree to pay the applicable upfront fees for the Software as specified by Robo-cam. For inquiries or questions regarding upfront fees, please contact us at codelokiyt@gmail.com.
+
+5. SUPPORT AND UPDATES
+
+This license does not entitle you to any support or updates for the Software. Robo-cam may, at its discretion, provide support and updates at additional costs.
+
+6. TERMINATION
+
+This license is effective until terminated. It will terminate automatically if you fail to comply with any of the terms and conditions. Upon termination, you must cease using the Software and destroy all copies of the Software.
+
+7. WARRANTY DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTIES. ROBO-CAM DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+8. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL ROBO-CAM BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+9. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws of Indian Jurisdiction.
+
+10. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between you and Robo-cam regarding the Software and supersedes all prior and contemporaneous agreements, understandings, or communications, whether oral or written.
+
+By using the Software, you acknowledge that you have read and understood this Agreement and agree to be bound by its terms and conditions.
+
+For inquiries or questions regarding this license, please contact Robo-cam at [codelokiyt@gmail.com].
+
+© 2023 Robo-cam. All rights reserved.
